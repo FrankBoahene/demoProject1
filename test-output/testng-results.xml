@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33909" started-at="2019-11-09T06:17:09Z" finished-at="2019-11-09T06:17:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33909" started-at="2019-11-09T06:17:09Z" finished-at="2019-11-09T06:17:43Z">
+      <class name="com.AutomationTalks.demoProject1.TestClass1">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.AutomationTalks.demoProject1.TestClass1@4dfa3a9d]" name="launchDriver" is-config="true" duration-ms="6365" started-at="2019-11-09T06:17:09Z" finished-at="2019-11-09T06:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.AutomationTalks.demoProject1.TestClass1@4dfa3a9d]" name="Test1" duration-ms="6313" started-at="2019-11-09T06:17:16Z" finished-at="2019-11-09T06:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationTalks.demoProject1.TestClass1@4dfa3a9d]" name="quit" is-config="true" duration-ms="978" started-at="2019-11-09T06:17:22Z" finished-at="2019-11-09T06:17:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.AutomationTalks.demoProject1.TestClass1@4dfa3a9d]" name="launchDriver" is-config="true" duration-ms="3966" started-at="2019-11-09T06:17:23Z" finished-at="2019-11-09T06:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.AutomationTalks.demoProject1.TestClass1@4dfa3a9d]" name="Test2" duration-ms="5627" started-at="2019-11-09T06:17:27Z" finished-at="2019-11-09T06:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationTalks.demoProject1.TestClass1@4dfa3a9d]" name="quit" is-config="true" duration-ms="936" started-at="2019-11-09T06:17:33Z" finished-at="2019-11-09T06:17:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.AutomationTalks.demoProject1.TestClass1@4dfa3a9d]" name="launchDriver" is-config="true" duration-ms="4038" started-at="2019-11-09T06:17:34Z" finished-at="2019-11-09T06:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:com.AutomationTalks.demoProject1.TestClass1@4dfa3a9d]" name="Test3" duration-ms="4645" started-at="2019-11-09T06:17:38Z" finished-at="2019-11-09T06:17:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationTalks.demoProject1.TestClass1@4dfa3a9d]" name="quit" is-config="true" duration-ms="965" started-at="2019-11-09T06:17:42Z" finished-at="2019-11-09T06:17:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.AutomationTalks.demoProject1.TestClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
